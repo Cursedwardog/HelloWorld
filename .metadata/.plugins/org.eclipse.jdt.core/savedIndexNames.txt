@@ -1,0 +1,20 @@
+INDEX VERSION 1.130+C:\Users\CS2\Documents\GitHub\hello\.metadata\.plugins\org.eclipse.jdt.core
+3597219622.index
+254895694.index
+2380175872.index
+1886697952.index
+1722036732.index
+3502706743.index
+2424361505.index
+3165622800.index
+3498820481.index
+4002237657.index
+3203423739.index
+1673205821.index
+1438632966.index
+2698216394.index
+1023248346.index
+2300216309.index
+2263187639.index
+3420495794.index
+4173336754.index

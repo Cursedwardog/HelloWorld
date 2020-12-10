@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="C:\Users\CS2\Documents\My Bluetooth" version="1.8.0_151">
+<bootpath>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\resources.jar"/>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\rt.jar"/>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\sunrsasign.jar"/>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\jsse.jar"/>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\jce.jar"/>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\charsets.jar"/>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\jfr.jar"/>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\ext"/>
+<entry path="C:\WINDOWS\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="C:\Users\CS2\Documents\My Bluetooth\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
